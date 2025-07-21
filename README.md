@@ -48,8 +48,8 @@ Through building this portfolio, I strengthened my skills in:
 Feel free to reach out if you have feedback or opportunities!
 
 - Email: tsegayegirma369@example.com  
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/tsegaye-girma-trainer)  
-- GitHub: [YourGitHub](https://github.com/flexBox-eth
+- LinkedIn: [Tsegaye Girma](https://www.linkedin.com/in/tsegaye-girma-trainer)  
+- GitHub: [flexBox-eth By Tsegaye Girma](https://github.com/flexBox-eth
 
 ---
 
